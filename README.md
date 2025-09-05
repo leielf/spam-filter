@@ -12,7 +12,7 @@ A simple Naive Bayes–based spam filter for classifying emails as spam or ham (
 - Supports training on labeled datasets and testing on unseen emails.
 - Outputs predictions to !prediction.txt.
 
-##Usage:
+## Usage:
 1. Prepare a dataset with emails and a !truth.txt file containing labels (SPAM/OK).
 2. Train the filter:
 ```
@@ -23,10 +23,10 @@ python filter.py --train path/to/training_data
 python filter.py --test path/to/test_data
 ```
 
-##Results:
+## Results:
 - Achieved accuracy between 92% – 97% on provided datasets.
 
-##Future Improvements:
+## Future Improvements:
 - Apply cross-validation for training/testing splits.
 - Explore alternative training datasets.
 - Experiment with advanced text classification methods (e.g., word2vec).
