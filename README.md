@@ -1,7 +1,6 @@
 # Spam Filter
 
 A simple Naive Bayes–based spam filter for classifying emails as spam or ham (legitimate).
-Developed as part of the course Řešení problémů a hry (B4B33RPH) by Leila Babayeva and Laura Babayeva.
 
 ## Features:
 - Implements Naive Bayes filtering for email classification.
