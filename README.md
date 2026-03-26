@@ -32,4 +32,4 @@ python filter.py --test path/to/test_data
 - Experiment with advanced text classification methods (e.g., word2vec).
 
 License
-© 2023 Leila Babayeva & Laura Babayeva
+© 2023 Leila Babayeva
